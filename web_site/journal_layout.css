@@ -1,0 +1,67 @@
+
+body{
+	background-image: url(https://image.freepik.com/free-vector/vecnor-vintage-seamless-pattern-wallpaper-with-curve_2960-140.jpg)
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-self: center;
+	width: 1200px;
+
+	border: 5px white solid;
+	background-color: white; 
+	
+}
+#con {
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-self: center;
+	width: 1200px;
+
+	border: 5px white solid;
+	background-color: white;
+	border: 5px solid orange;
+
+
+}
+#Khan{
+	padding: 5px;
+	border: 5px solid darkblue;
+	
+
+
+}
+.white{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-self: center;
+	width: 1200px;
+
+	border: 5px white solid;
+	background-color: white;
+	
+}
+.whole{
+	padding: 5px;
+	border: 5px solid green;
+
+}
+.ann{
+	padding: 5px;
+	border: 5px solid purple;
+	padding-left: 2px;
+
+}
+.date{
+	display: inline-block;
+	
+}
+.nn
+{
+ margin-left: 10px;	
+}
